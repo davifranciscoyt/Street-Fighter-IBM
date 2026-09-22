@@ -171,7 +171,7 @@ Mapeamento dos parâmetros presentes nos executáveis e arquivos de configuraç�
 A documentação histórica preservada faz referência a diferentes revisões do SF2IBM, incluindo:
 
 - Versão (1.00-1.98) [1992-200?]
-- Versão 2.00 (Atualizado atualmente até 11 de janeiro de 2027)
+- Versão 2.00 (Atualização até 11 de janeiro de 2027)
 
 Conforme registrado na documentação técnica histórica, incluindo o arquivo "SF2TECH.TXT", a versão 1.96 contém menções explícitas ao suporte e à utilização de personagens personalizados (custom characters).
 
