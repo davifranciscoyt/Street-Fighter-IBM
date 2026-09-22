@@ -1,5 +1,3 @@
-Street Fighter II IBM — Preservação, restauração e documentação técnica para IBM PC/DOS.
-
 # Visão Geral
 
 O SF2IBM é um projeto dedicado à preservação histórica, análise, restauração e documentação técnica da versão de Street Fighter II desenvolvida para a plataforma IBM PC/DOS por Jung Y.D. / Jung Young-dug.
@@ -219,3 +217,4 @@ O SF2IBM é um projeto independente voltado à:
 - Retrocomputação;
 - Estudo de software antigo.
 
+Street Fighter II IBM — Preservação, restauração e documentação técnica para IBM PC/DOS.
